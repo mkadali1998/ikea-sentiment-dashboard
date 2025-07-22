@@ -1,3 +1,5 @@
+DEMO - https://ikea-sentiment-dashboard.streamlit.app
+
 # 🛒 IKEA Sentiment Dashboard
 
 A Streamlit-powered interactive dashboard that performs sentiment analysis on IKEA customer reviews using TextBlob.
